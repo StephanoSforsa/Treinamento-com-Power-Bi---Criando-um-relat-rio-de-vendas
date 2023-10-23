@@ -1,3 +1,8 @@
-# power_bi_analyst
+#Desafio de criação de relatórios com o power BI
 
-Repositório relacionado a formação de Power BI Analyst
+Neste repositório, introduzi a minha resolução para o desafio proposto no qual foi fornecida uma base de dados.
+Em cimas dos dados apresentados e seguindo as orientações, montei duas páginas de relatórios com algumas interações, como a troca de páginas e de gráficos apresentados utilizando botões visuais.
+Este desafio foi importante pois consegui aprender sobre como criar visualizações e utilizar os elementos visuais do power bi.
+
+<img src="Módulo 2/Desafio de Projeto/desfio_relatorio_pagina_1.png">
+<img src="Módulo 2/Desafio de Projeto/desfio_relatorio_pagina_2.png">
